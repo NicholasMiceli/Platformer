@@ -4,6 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Pick Up
+  - Enemy Pick Up
   - Ground
   layers:
   - Default
@@ -47,6 +49,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 3379053819
+    locked: 0
+  - name: Walls
+    uniqueID: 4153624483
     locked: 0
   - name: Player
     uniqueID: 1014359351
